@@ -37,13 +37,7 @@ Here are some of my personal & academic projects:
 - 📊 **Sales Prediction System** – using SARIMAX to forecast sales trends.  
 - 🎙️ **Radion** – a web application for a radio station (NGO project).  
 
----
 
-## 📊 GitHub Stats
-![Oussema's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect With Me
 - 🌍 [LinkedIn](#)  
