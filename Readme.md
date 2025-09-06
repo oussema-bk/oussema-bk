@@ -40,9 +40,9 @@ Here are some of my personal & academic projects:
 
 
 ## 📫 Connect With Me
-- 🌍 [LinkedIn](#)  
-- 📧 youremail@example.com  
-- 🕹️ Always down to talk about history, gaming, or projects.  
+- 🌍 [LinkedIn](#https://www.linkedin.com/in/oussama-boubakri-571205186/)  
+- 📧 oussamaboubakri91@gmail.com 
+
 
 ---
 
