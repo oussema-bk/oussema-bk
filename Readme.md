@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oussema  
 
-🎓 26 y/o engineering student & backend developer at **Neopolis Dev** (fintech).  
+🎓 27 y/o engineering student & backend developer at **Neopolis Dev** (fintech).  
 💻 Currently working mostly with **Django / Python / Node.js** for APIs and backend systems.  
 🎮 Fascinated by **history & gaming** (ask me about ancient battles or RPGs).  
 
