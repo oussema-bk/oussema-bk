@@ -29,8 +29,12 @@
 ## 🛠️ Projects
 Here are some of my personal & academic projects:  
 
+- 🏋️ **AthleteOS** – athlete health & performance platform: readiness check-ins, training calendar, body map (NestJS, Next.js, Expo).  
+- 🏫 **[Student Management System](https://github.com/oussema-bk/Student-System-Management)** – multi-role school platform (Django + Angular), French & Arabic.  
+- 🌱 **[GrowVana](https://github.com/oussema-bk/Growvana)** – real-time dashboard for monitoring a hydroponics installation (Django, Chart.js).  
+- 📦 **[Stock Management](https://github.com/oussema-bk/stock-management)** – inventory & sales system for an electrical parts agency (Django).  
+- 🏨 **Hotel Management** – [NestJS API](https://github.com/oussema-bk/back_hotel_management) + [Next.js frontend](https://github.com/oussema-bk/front_hotel_management).  
 - 💳 **Loan Management System** – desktop app in Python to handle loans & repayments.  
-- 🏫 **Student Management System** – web app using Django for handling students, grades, and classes.  
 - 🤖 **AI Projects** –  
   - NBA match predictor with ML (React + Django interface).  
   - YOLO-based event detection on Raspberry Pi.  
@@ -40,7 +44,7 @@ Here are some of my personal & academic projects:
 
 
 ## 📫 Connect With Me
-- 🌍 [LinkedIn](#https://www.linkedin.com/in/oussama-boubakri-571205186/)  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/oussama-boubakri-571205186/)  
 - 📧 oussamaboubakri91@gmail.com 
 
 
